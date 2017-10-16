@@ -1,0 +1,91 @@
+---
+title: "New Zealand's Progress on Increasing Business Expenditure on Research and Development"
+author: "John Beal"
+date: "16 October 2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r BERD by Industry}
+## http://www.stats.govt.nz/infoshare/
+## Research and Development Survey (RAD)
+## Table: Total research and development expenditure by industry (Annual-Jun) 
+## R & D Industry Split: all non-total industry lines; Time: 2008, 2010, 2012, 2014, 2016
+## Downloaded: 17 October 2017 7 am Last Updated: 29 March 2017 10:45 am
+BERD_industry <- read.csv(file = "RAD522801_20171017_065838_61.csv", 
+                          skip = 1, header = TRUE, check.names = TRUE, nrow = 5, na.strings = "..")
+colnames(BERD_industry)[1] <- "Year"
+```
+
+```{r BERD by Industry Group}
+## http://www.stats.govt.nz/infoshare/
+## Research and Development Survey (RAD)
+## Table: Total research and development expenditure by industry (Annual-Jun) 
+## R & D Industry Split: Primary Total, Manufacturing Total, Services Total; Time: 2008, 2010, 2012, 2014, 2016
+## Downloaded: 17 October 2017 8:30 am Last Updated: 29 March 2017 10:45 am
+BERD_industry_group <- read.csv(file = "RAD522801_20171017_082358_86.csv", 
+                          skip = 1, header = TRUE, check.names = TRUE, nrow = 5, na.strings = "..")
+colnames(BERD_industry_group)[1] <- "Year"
+```
+
+
+Minister of Science and Innovation
+
+#New Zealand's progress towards increasing Business Expenditure on Research and Development (BERD)
+
+##Purpose
+
+The purpose of this briefing is to update you on the current progress towards meeting the government goal of increasing Business Expenditure on Research and Development (BERD) to 1% of GDP by 2018.
+
+##Introduction
+
+BERD is a measure which covers Research and Development (R & D) activities carried out in the business sector. BERD is more closely associated with the creation of new products and improved production techniques than other forms of R & D expenditure (e.g. Government Expenditure on R & D [GOVERD] or Higher Education Expenditure on R & D [HERD]), and is therefore more strongly associated with economic development.  
+
+<!---
+BERD includes R & D performed by business, even if the funding is received elsewhere (e.g. government grants). BERD does not include R & D funded by business, but performed by government or higher educational institutions.
+-->
+
+It is for this reason that the aspirational goal of increasing New Zealand's BERD to 1% of GDP by 2018 was included in the *National Statement of Science Investment* in 2015.  
+
+[OECD] (http://www.oecd.org/innovation/inno/frascatimanualproposedstandardpracticeforsurveysonresearchandexperimentaldevelopment6thedition.htm]) 
+
+##Progress to Date
+
+BERD in New zealand is measured by Statistics New Zealand in the biennial Research and Development Survey. The most recent results (for 2016) were released in March 2017. The next release of the survey is scheduled for 3 April 2019.    
+
+```{r Plot_BERD message = FALSE}
+require(ggplot2)
+require(reshape2)
+BERD_industry_melt <- melt(BERD_industry, id.vars = "Year")
+names(BERD_industry_group_melt)[2] <- "Industry"
+BERDplot <- ggplot(data = BERD_industry_melt,aes(y = value, x = Year, fill = Industry)) + 
+                    theme_economist() +
+                    theme(plot.title=element_text(family="OfficinaSanITC-Book"),
+                          text=element_text(family="OfficinaSanITC-Book")) +
+                    geom_bar(stat = "identity") +
+                    ylab("$(million)") + scale_x_continuous(breaks = seq(2008, 2016, 2), name = "")
+
+```
+
+
+```{r Plot_BERD_group message = FALSE}
+require(ggplot2)
+require(reshape2)
+BERD_industry_group_melt <- melt(BERD_industry_group, id.vars = "Year")
+names(BERD_industry_group_melt)[2] <- "Industry"
+BERDplot_group <- ggplot(data = BERD_industry_group_melt,aes(y = value, x = Year, fill = Industry)) + 
+                    theme_economist() +
+                    theme(plot.title=element_text(family="OfficinaSanITC-Book"),
+                          text=element_text(family="OfficinaSanITC-Book")) +
+                    geom_bar(stat = "identity") +
+                    ylab("$(million)") + scale_x_continuous(breaks = seq(2008, 2016, 2), name = "")
+
+```
+
+
+##Conclusion
+
+##Recommendations
