@@ -1,0 +1,676 @@
+﻿"MSTI_VAR","MSTI Variables","COU","Country","YEAR","Year","Unit Code","Unit","PowerCode Code","PowerCode","Reference Period Code","Reference Period","Value","Flag Codes","Flags"
+"B_XGDP","BERD as a percentage of GDP","AUS","Australia","2000","2000","PC","Percentage","0","Units",,,0.70570872554324,,
+"B_XGDP","BERD as a percentage of GDP","AUS","Australia","2001","2001","PC","Percentage","0","Units",,,0.82095864910876,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","AUS","Australia","2002","2002","PC","Percentage","0","Units",,,0.86581992971443,,
+"B_XGDP","BERD as a percentage of GDP","AUS","Australia","2003","2003","PC","Percentage","0","Units",,,0.90116316156336,,
+"B_XGDP","BERD as a percentage of GDP","AUS","Australia","2004","2004","PC","Percentage","0","Units",,,0.94019038950203,,
+"B_XGDP","BERD as a percentage of GDP","AUS","Australia","2005","2005","PC","Percentage","0","Units",,,1.04503143847813,,
+"B_XGDP","BERD as a percentage of GDP","AUS","Australia","2006","2006","PC","Percentage","0","Units",,,1.16229860957846,,
+"B_XGDP","BERD as a percentage of GDP","AUS","Australia","2007","2007","PC","Percentage","0","Units",,,1.27649178111127,,
+"B_XGDP","BERD as a percentage of GDP","AUS","Australia","2008","2008","PC","Percentage","0","Units",,,1.37310209008322,,
+"B_XGDP","BERD as a percentage of GDP","AUS","Australia","2009","2009","PC","Percentage","0","Units",,,1.29167604361592,,
+"B_XGDP","BERD as a percentage of GDP","AUS","Australia","2010","2010","PC","Percentage","0","Units",,,1.27668489735842,,
+"B_XGDP","BERD as a percentage of GDP","AUS","Australia","2011","2011","PC","Percentage","0","Units",,,1.22818237214101,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","AUS","Australia","2013","2013","PC","Percentage","0","Units",,,1.18554159276451,,
+"B_XGDP","BERD as a percentage of GDP","AUT","Austria","2002","2002","PC","Percentage","0","Units",,,1.38349418356347,,
+"B_XGDP","BERD as a percentage of GDP","AUT","Austria","2004","2004","PC","Percentage","0","Units",,,1.47263150057916,,
+"B_XGDP","BERD as a percentage of GDP","AUT","Austria","2005","2005","PC","Percentage","0","Units",,,1.66304947348763,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","AUT","Austria","2006","2006","PC","Percentage","0","Units",,,1.66943462499719,,
+"B_XGDP","BERD as a percentage of GDP","AUT","Austria","2007","2007","PC","Percentage","0","Units",,,1.71627909793665,,
+"B_XGDP","BERD as a percentage of GDP","AUT","Austria","2008","2008","PC","Percentage","0","Units",,,1.79242387200593,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","AUT","Austria","2009","2009","PC","Percentage","0","Units",,,1.77956294239221,,
+"B_XGDP","BERD as a percentage of GDP","AUT","Austria","2010","2010","PC","Percentage","0","Units",,,1.87369542897387,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","AUT","Austria","2011","2011","PC","Percentage","0","Units",,,1.84455037917861,,
+"B_XGDP","BERD as a percentage of GDP","AUT","Austria","2012","2012","PC","Percentage","0","Units",,,2.06247467811245,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","AUT","Austria","2013","2013","PC","Percentage","0","Units",,,2.10158001555346,,
+"B_XGDP","BERD as a percentage of GDP","AUT","Austria","2014","2014","PC","Percentage","0","Units",,,2.1910243280019,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","AUT","Austria","2015","2015","PC","Percentage","0","Units",,,2.21123082222435,"e; p","Estimated value; Provisional value"
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2000","2000","PC","Percentage","0","Units",,,1.38973828864311,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2001","2001","PC","Percentage","0","Units",,,1.47527444903457,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2002","2002","PC","Percentage","0","Units",,,1.33144778848636,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2003","2003","PC","Percentage","0","Units",,,1.27651099523417,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2004","2004","PC","Percentage","0","Units",,,1.24930594266699,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2005","2005","PC","Percentage","0","Units",,,1.21215233153868,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2006","2006","PC","Percentage","0","Units",,,1.25683887320839,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2007","2007","PC","Percentage","0","Units",,,1.28233817697621,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2008","2008","PC","Percentage","0","Units",,,1.31331760180305,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2009","2009","PC","Percentage","0","Units",,,1.31165401785074,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2010","2010","PC","Percentage","0","Units",,,1.3770710022706,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2011","2011","PC","Percentage","0","Units",,,1.48069405390577,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2012","2012","PC","Percentage","0","Units",,,1.67569032258065,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2013","2013","PC","Percentage","0","Units",,,1.72198442298414,,
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2014","2014","PC","Percentage","0","Units",,,1.75463389197025,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","BEL","Belgium","2015","2015","PC","Percentage","0","Units",,,1.76651626946693,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2000","2000","PC","Percentage","0","Units",,,1.12438542063535,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2001","2001","PC","Percentage","0","Units",,,1.25084940443049,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2002","2002","PC","Percentage","0","Units",,,1.13875969774316,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2003","2003","PC","Percentage","0","Units",,,1.12715595669891,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2004","2004","PC","Percentage","0","Units",,,1.13771411486668,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2005","2005","PC","Percentage","0","Units",,,1.1036479166255,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2006","2006","PC","Percentage","0","Units",,,1.10406934158599,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2007","2007","PC","Percentage","0","Units",,,1.06492908946243,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2008","2008","PC","Percentage","0","Units",,,1.00694345713624,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2009","2009","PC","Percentage","0","Units",,,1.02324602118843,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2010","2010","PC","Percentage","0","Units",,,0.95076799047006,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2011","2011","PC","Percentage","0","Units",,,0.95450587907596,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2012","2012","PC","Percentage","0","Units",,,0.91616889985122,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2013","2013","PC","Percentage","0","Units",,,0.87471561729426,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2014","2014","PC","Percentage","0","Units",,,0.93413550486431,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2015","2015","PC","Percentage","0","Units",,,0.89996289383761,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","CAN","Canada","2016","2016","PC","Percentage","0","Units",,,0.8741610539648,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2000","2000","PC","Percentage","0","Units",,,0.66937954927654,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2001","2001","PC","Percentage","0","Units",,,0.66539351982827,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2002","2002","PC","Percentage","0","Units",,,0.67490729572719,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2003","2003","PC","Percentage","0","Units",,,0.70213393865334,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2004","2004","PC","Percentage","0","Units",,,0.71625979343681,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2005","2005","PC","Percentage","0","Units",,,0.68096806080592,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2006","2006","PC","Percentage","0","Units",,,0.72353100782377,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2007","2007","PC","Percentage","0","Units",,,0.75240952325775,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2008","2008","PC","Percentage","0","Units",,,0.71546500326497,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2009","2009","PC","Percentage","0","Units",,,0.71715379847199,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2010","2010","PC","Percentage","0","Units",,,0.75912804847975,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2011","2011","PC","Percentage","0","Units",,,0.84655665056504,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2012","2012","PC","Percentage","0","Units",,,0.94159656046732,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2013","2013","PC","Percentage","0","Units",,,1.01296747783378,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2014","2014","PC","Percentage","0","Units",,,1.08907757913055,,
+"B_XGDP","BERD as a percentage of GDP","CZE","Czech Republic","2015","2015","PC","Percentage","0","Units",,,1.05711470782931,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2001","2001","PC","Percentage","0","Units",,,1.59428696007221,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2002","2002","PC","Percentage","0","Units",,,1.68506620358782,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2003","2003","PC","Percentage","0","Units",,,1.73508194600178,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2004","2004","PC","Percentage","0","Units",,,1.64597492451864,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2005","2005","PC","Percentage","0","Units",,,1.633568524714,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2006","2006","PC","Percentage","0","Units",,,1.60845312258509,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2007","2007","PC","Percentage","0","Units",,,1.7575747119496,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2008","2008","PC","Percentage","0","Units",,,1.9385279799275,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2009","2009","PC","Percentage","0","Units",,,2.13189613173819,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2010","2010","PC","Percentage","0","Units",,,1.95549680108409,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2011","2011","PC","Percentage","0","Units",,,1.96476819499538,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2012","2012","PC","Percentage","0","Units",,,1.95485281809729,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2013","2013","PC","Percentage","0","Units",,,1.88154286960978,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2014","2014","PC","Percentage","0","Units",,,1.86192473909536,,
+"B_XGDP","BERD as a percentage of GDP","DNK","Denmark","2015","2015","PC","Percentage","0","Units",,,1.89219360379563,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2000","2000","PC","Percentage","0","Units",,,2.30142104989689,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2001","2001","PC","Percentage","0","Units",,,2.27365646184842,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2002","2002","PC","Percentage","0","Units",,,2.27603453014047,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2003","2003","PC","Percentage","0","Units",,,2.32760392956343,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2004","2004","PC","Percentage","0","Units",,,2.32429201858945,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2005","2005","PC","Percentage","0","Units",,,2.35839817017161,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2006","2006","PC","Percentage","0","Units",,,2.37975314864379,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2007","2007","PC","Percentage","0","Units",,,2.41894020923552,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2008","2008","PC","Percentage","0","Units",,,2.63381299977802,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2009","2009","PC","Percentage","0","Units",,,2.67756215854918,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2010","2010","PC","Percentage","0","Units",,,2.59458204168894,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2011","2011","PC","Percentage","0","Units",,,2.56385103799989,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2012","2012","PC","Percentage","0","Units",,,2.3499307783556,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2013","2013","PC","Percentage","0","Units",,,2.26342346241234,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2014","2014","PC","Percentage","0","Units",,,2.14601360756105,,
+"B_XGDP","BERD as a percentage of GDP","FIN","Finland","2015","2015","PC","Percentage","0","Units",,,1.93178401134069,,
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2000","2000","PC","Percentage","0","Units",,,1.30265811083664,,
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2001","2001","PC","Percentage","0","Units",,,1.34544605856811,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2002","2002","PC","Percentage","0","Units",,,1.36983200345741,,
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2003","2003","PC","Percentage","0","Units",,,1.3219543139954,,
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2004","2004","PC","Percentage","0","Units",,,1.31657174822886,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2005","2005","PC","Percentage","0","Units",,,1.26994403485822,,
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2006","2006","PC","Percentage","0","Units",,,1.29018484654397,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2007","2007","PC","Percentage","0","Units",,,1.27219495083956,,
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2008","2008","PC","Percentage","0","Units",,,1.29073877295388,,
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2009","2009","PC","Percentage","0","Units",,,1.36285204307131,,
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2010","2010","PC","Percentage","0","Units",,,1.37377186973506,,
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2011","2011","PC","Percentage","0","Units",,,1.40100151314729,,
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2012","2012","PC","Percentage","0","Units",,,1.4395027813596,,
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2013","2013","PC","Percentage","0","Units",,,1.44614481651394,,
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2014","2014","PC","Percentage","0","Units",,,1.44965591967625,,
+"B_XGDP","BERD as a percentage of GDP","FRA","France","2015","2015","PC","Percentage","0","Units",,,1.44323960472929,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2000","2000","PC","Percentage","0","Units",,,1.68203810099788,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2001","2001","PC","Percentage","0","Units",,,1.66671559969723,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2002","2002","PC","Percentage","0","Units",,,1.67248301490524,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2003","2003","PC","Percentage","0","Units",,,1.71295628986343,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2004","2004","PC","Percentage","0","Units",,,1.68953854013441,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2005","2005","PC","Percentage","0","Units",,,1.67985179454639,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2006","2006","PC","Percentage","0","Units",,,1.71933563146349,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2007","2007","PC","Percentage","0","Units",,,1.712298516252,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2008","2008","PC","Percentage","0","Units",,,1.79850414171618,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2009","2009","PC","Percentage","0","Units",,,1.84023769652235,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2010","2010","PC","Percentage","0","Units",,,1.8189111881119,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2011","2011","PC","Percentage","0","Units",,,1.88956465121785,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2012","2012","PC","Percentage","0","Units",,,1.95014610660344,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2013","2013","PC","Percentage","0","Units",,,1.89531674592391,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2014","2014","PC","Percentage","0","Units",,,1.94931137202327,,
+"B_XGDP","BERD as a percentage of GDP","DEU","Germany","2015","2015","PC","Percentage","0","Units",,,2.00974670438734,,
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2000","2000","PC","Percentage","0","Units",,,0.14131245952572,,
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2001","2001","PC","Percentage","0","Units",,,0.18272750362579,,
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2002","2002","PC","Percentage","0","Units",,,0.17563847893176,,
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2003","2003","PC","Percentage","0","Units",,,0.17522731444317,,
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2004","2004","PC","Percentage","0","Units",,,0.16383277017884,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2005","2005","PC","Percentage","0","Units",,,0.17935732788142,,
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2006","2006","PC","Percentage","0","Units",,,0.16859329667684,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2007","2007","PC","Percentage","0","Units",,,0.16482119142197,,
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2008","2008","PC","Percentage","0","Units",,,0.20695036699286,"b; e","Time series break; Estimated value"
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2009","2009","PC","Percentage","0","Units",,,0.22642214973159,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2010","2010","PC","Percentage","0","Units",,,0.23598043838397,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2011","2011","PC","Percentage","0","Units",,,0.23468343974775,,
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2012","2012","PC","Percentage","0","Units",,,0.23984865422097,,
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2013","2013","PC","Percentage","0","Units",,,0.27051117201909,,
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2014","2014","PC","Percentage","0","Units",,,0.28344855229079,,
+"B_XGDP","BERD as a percentage of GDP","GRC","Greece","2015","2015","PC","Percentage","0","Units",,,0.31963471847453,,
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2000","2000","PC","Percentage","0","Units",,,0.35058658047637,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2001","2001","PC","Percentage","0","Units",,,0.36645114922915,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2002","2002","PC","Percentage","0","Units",,,0.34915268285717,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2003","2003","PC","Percentage","0","Units",,,0.33844117117327,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2004","2004","PC","Percentage","0","Units",,,0.35503573835727,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2005","2005","PC","Percentage","0","Units",,,0.39919981494207,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2006","2006","PC","Percentage","0","Units",,,0.47560135539147,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2007","2007","PC","Percentage","0","Units",,,0.48383239998779,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2008","2008","PC","Percentage","0","Units",,,0.51729677464444,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2009","2009","PC","Percentage","0","Units",,,0.65111159987911,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2010","2010","PC","Percentage","0","Units",,,0.68503391063247,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2011","2011","PC","Percentage","0","Units",,,0.74583697467684,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2012","2012","PC","Percentage","0","Units",,,0.83275187140721,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2013","2013","PC","Percentage","0","Units",,,0.96815322184504,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2014","2014","PC","Percentage","0","Units",,,0.97375882357081,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","HUN","Hungary","2015","2015","PC","Percentage","0","Units",,,1.01174616485914,"v","The sum of the breakdown does not add to the total"
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2000","2000","PC","Percentage","0","Units",,,1.4625233717946,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2001","2001","PC","Percentage","0","Units",,,1.69011375606707,,
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2002","2002","PC","Percentage","0","Units",,,1.63449964720043,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2003","2003","PC","Percentage","0","Units",,,1.41582816779588,,
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2005","2005","PC","Percentage","0","Units",,,1.39379076729313,,
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2006","2006","PC","Percentage","0","Units",,,1.55515097881021,,
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2007","2007","PC","Percentage","0","Units",,,1.40526416881468,,
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2008","2008","PC","Percentage","0","Units",,,1.3776232440439,,
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2009","2009","PC","Percentage","0","Units",,,1.33406178353983,,
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2010","2010","PC","Percentage","0","Units",,,1.31810110887352,"b; e","Time series break; Estimated value"
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2011","2011","PC","Percentage","0","Units",,,1.3248353740777,"b; l","Time series break; Overestimated or based on overestimated data"
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2013","2013","PC","Percentage","0","Units",,,0.98449590269252,"b; w","Time series break; Includes data from another category"
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2014","2014","PC","Percentage","0","Units",,,1.22979456958377,"w","Includes data from another category"
+"B_XGDP","BERD as a percentage of GDP","ISL","Iceland","2015","2015","PC","Percentage","0","Units",,,1.41656647483431,"w","Includes data from another category"
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2000","2000","PC","Percentage","0","Units",,,0.77706136894787,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2001","2001","PC","Percentage","0","Units",,,0.73806412765487,,
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2002","2002","PC","Percentage","0","Units",,,0.72688213442217,,
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2003","2003","PC","Percentage","0","Units",,,0.75915468070737,,
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2004","2004","PC","Percentage","0","Units",,,0.77492584470621,,
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2005","2005","PC","Percentage","0","Units",,,0.78136121901283,,
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2006","2006","PC","Percentage","0","Units",,,0.79238851827458,,
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2007","2007","PC","Percentage","0","Units",,,0.81259675985749,,
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2008","2008","PC","Percentage","0","Units",,,0.89867600568196,,
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2009","2009","PC","Percentage","0","Units",,,1.10100656021381,,
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2010","2010","PC","Percentage","0","Units",,,1.09714756513846,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2011","2011","PC","Percentage","0","Units",,,1.07447724125779,,
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2012","2012","PC","Percentage","0","Units",,,1.11616727729046,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2013","2013","PC","Percentage","0","Units",,,1.12197334031291,,
+"B_XGDP","BERD as a percentage of GDP","IRL","Ireland","2014","2014","PC","Percentage","0","Units",,,1.09070430338323,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2000","2000","PC","Percentage","0","Units",,,0.50344303398443,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2001","2001","PC","Percentage","0","Units",,,0.51281471430924,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2002","2002","PC","Percentage","0","Units",,,0.52433721355037,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2003","2003","PC","Percentage","0","Units",,,0.50183015432716,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2004","2004","PC","Percentage","0","Units",,,0.50353409263788,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2005","2005","PC","Percentage","0","Units",,,0.52733206192941,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2006","2006","PC","Percentage","0","Units",,,0.53021897650892,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2007","2007","PC","Percentage","0","Units",,,0.58741235320991,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2008","2008","PC","Percentage","0","Units",,,0.6233063636494,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2009","2009","PC","Percentage","0","Units",,,0.65091495732346,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2010","2010","PC","Percentage","0","Units",,,0.65933962396152,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2011","2011","PC","Percentage","0","Units",,,0.66110198527984,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2012","2012","PC","Percentage","0","Units",,,0.6884919862488,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2013","2013","PC","Percentage","0","Units",,,0.7154684478452,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2014","2014","PC","Percentage","0","Units",,,0.76110285944292,,
+"B_XGDP","BERD as a percentage of GDP","ITA","Italy","2015","2015","PC","Percentage","0","Units",,,0.73571075946759,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2000","2000","PC","Percentage","0","Units",,,2.06191214833323,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2001","2001","PC","Percentage","0","Units",,,2.18946491907343,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2002","2002","PC","Percentage","0","Units",,,2.24363364756654,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2003","2003","PC","Percentage","0","Units",,,2.28151397543698,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2004","2004","PC","Percentage","0","Units",,,2.27793937946743,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2005","2005","PC","Percentage","0","Units",,,2.43179591126524,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2006","2006","PC","Percentage","0","Units",,,2.52949411412131,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2007","2007","PC","Percentage","0","Units",,,2.60123000660914,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2008","2008","PC","Percentage","0","Units",,,2.61841115987092,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2009","2009","PC","Percentage","0","Units",,,2.4481755910611,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2010","2010","PC","Percentage","0","Units",,,2.40030766223667,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2011","2011","PC","Percentage","0","Units",,,2.49726612380535,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2012","2012","PC","Percentage","0","Units",,,2.45889442561902,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2013","2013","PC","Percentage","0","Units",,,2.5223709178267,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2014","2014","PC","Percentage","0","Units",,,2.64481465763931,,
+"B_XGDP","BERD as a percentage of GDP","JPN","Japan","2015","2015","PC","Percentage","0","Units",,,2.57956249533499,,
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2000","2000","PC","Percentage","0","Units",,,1.61443696840257,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2001","2001","PC","Percentage","0","Units",,,1.78352296084848,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2002","2002","PC","Percentage","0","Units",,,1.70293891019346,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2003","2003","PC","Percentage","0","Units",,,1.78929451694893,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2004","2004","PC","Percentage","0","Units",,,1.94282736531302,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2005","2005","PC","Percentage","0","Units",,,2.01829718352076,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2006","2006","PC","Percentage","0","Units",,,2.18691365891742,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2007","2007","PC","Percentage","0","Units",,,2.28753554394705,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2008","2008","PC","Percentage","0","Units",,,2.35402919459277,,
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2009","2009","PC","Percentage","0","Units",,,2.44557335984006,,
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2010","2010","PC","Percentage","0","Units",,,2.59251024730738,,
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2011","2011","PC","Percentage","0","Units",,,2.86514862446452,,
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2012","2012","PC","Percentage","0","Units",,,3.13787907380319,,
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2013","2013","PC","Percentage","0","Units",,,3.25720144700875,,
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2014","2014","PC","Percentage","0","Units",,,3.35476478206782,,
+"B_XGDP","BERD as a percentage of GDP","KOR","Korea","2015","2015","PC","Percentage","0","Units",,,3.28093777099787,,
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2000","2000","PC","Percentage","0","Units",,,1.46017540562871,,
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2003","2003","PC","Percentage","0","Units",,,1.44876677260662,,
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2004","2004","PC","Percentage","0","Units",,,1.40681081143774,,
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2005","2005","PC","Percentage","0","Units",,,1.35859430775624,,
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2006","2006","PC","Percentage","0","Units",,,1.43455281661135,,
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2007","2007","PC","Percentage","0","Units",,,1.33140137579756,,
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2008","2008","PC","Percentage","0","Units",,,1.26414355677176,,
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2009","2009","PC","Percentage","0","Units",,,1.27297008531117,,
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2010","2010","PC","Percentage","0","Units",,,0.99557437323864,,
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2011","2011","PC","Percentage","0","Units",,,0.96421501985676,,
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2012","2012","PC","Percentage","0","Units",,,0.70366188683625,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2013","2013","PC","Percentage","0","Units",,,0.68290109532051,,
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2014","2014","PC","Percentage","0","Units",,,0.67719431670673,,
+"B_XGDP","BERD as a percentage of GDP","LUX","Luxembourg","2015","2015","PC","Percentage","0","Units",,,0.65418770502355,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2000","2000","PC","Percentage","0","Units",,,0.09942291380882,,
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2001","2001","PC","Percentage","0","Units",,,0.10701251462783,,
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2002","2002","PC","Percentage","0","Units",,,0.13319777984625,,
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2003","2003","PC","Percentage","0","Units",,,0.13451537057719,,
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2004","2004","PC","Percentage","0","Units",,,0.16823905262148,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2005","2005","PC","Percentage","0","Units",,,0.18980289035017,,
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2006","2006","PC","Percentage","0","Units",,,0.18228235664365,,
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2007","2007","PC","Percentage","0","Units",,,0.18132714655556,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2008","2008","PC","Percentage","0","Units",,,0.16161120495422,,
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2009","2009","PC","Percentage","0","Units",,,0.19085021033681,,
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2010","2010","PC","Percentage","0","Units",,,0.18923495751594,,
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2011","2011","PC","Percentage","0","Units",,,0.18012625080564,,
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2012","2012","PC","Percentage","0","Units",,,0.1465896054822,,
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2013","2013","PC","Percentage","0","Units",,,0.1576139823098,,
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2014","2014","PC","Percentage","0","Units",,,0.16117978790714,"e; p","Estimated value; Provisional value"
+"B_XGDP","BERD as a percentage of GDP","MEX","Mexico","2015","2015","PC","Percentage","0","Units",,,0.16002762798121,"e; p","Estimated value; Provisional value"
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2000","2000","PC","Percentage","0","Units",,,0.99495381209255,,
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2001","2001","PC","Percentage","0","Units",,,0.98847063956903,,
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2002","2002","PC","Percentage","0","Units",,,0.91870390555328,,
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2003","2003","PC","Percentage","0","Units",,,0.94814978556104,,
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2004","2004","PC","Percentage","0","Units",,,0.967860762417,,
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2005","2005","PC","Percentage","0","Units",,,0.94738173307259,,
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2006","2006","PC","Percentage","0","Units",,,0.94611299489651,,
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2007","2007","PC","Percentage","0","Units",,,0.89600182624576,,
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2008","2008","PC","Percentage","0","Units",,,0.8234206297924,,
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2009","2009","PC","Percentage","0","Units",,,0.79347086828384,,
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2010","2010","PC","Percentage","0","Units",,,0.82627091805065,,
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2011","2011","PC","Percentage","0","Units",,,1.07659450654738,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2012","2012","PC","Percentage","0","Units",,,1.09702680264243,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2013","2013","PC","Percentage","0","Units",,,1.0869125604368,,
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2014","2014","PC","Percentage","0","Units",,,1.12116672261873,,
+"B_XGDP","BERD as a percentage of GDP","NLD","Netherlands","2015","2015","PC","Percentage","0","Units",,,1.10818968859782,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","NZL","New Zealand","2001","2001","PC","Percentage","0","Units",,,0.40710728520041,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","NZL","New Zealand","2003","2003","PC","Percentage","0","Units",,,0.46857482941413,,
+"B_XGDP","BERD as a percentage of GDP","NZL","New Zealand","2005","2005","PC","Percentage","0","Units",,,0.46644081111602,,
+"B_XGDP","BERD as a percentage of GDP","NZL","New Zealand","2007","2007","PC","Percentage","0","Units",,,0.49399234659745,,
+"B_XGDP","BERD as a percentage of GDP","NZL","New Zealand","2009","2009","PC","Percentage","0","Units",,,0.52303732303732,,
+"B_XGDP","BERD as a percentage of GDP","NZL","New Zealand","2011","2011","PC","Percentage","0","Units",,,0.55946089166717,,
+"B_XGDP","BERD as a percentage of GDP","NZL","New Zealand","2013","2013","PC","Percentage","0","Units",,,0.53631996694272,,
+"B_XGDP","BERD as a percentage of GDP","NZL","New Zealand","2015","2015","PC","Percentage","0","Units",,,0.63633294274195,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2001","2001","PC","Percentage","0","Units",,,0.93312284088113,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2002","2002","PC","Percentage","0","Units",,,0.93642981166929,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2003","2003","PC","Percentage","0","Units",,,0.96312514162334,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2004","2004","PC","Percentage","0","Units",,,0.84219192011587,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2005","2005","PC","Percentage","0","Units",,,0.79351232967075,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2006","2006","PC","Percentage","0","Units",,,0.77796716670158,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2007","2007","PC","Percentage","0","Units",,,0.82215075700222,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2008","2008","PC","Percentage","0","Units",,,0.82708472468507,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2009","2009","PC","Percentage","0","Units",,,0.88906934112799,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2010","2010","PC","Percentage","0","Units",,,0.84592459950218,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2011","2011","PC","Percentage","0","Units",,,0.84920233827476,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2012","2012","PC","Percentage","0","Units",,,0.8469996034005,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2013","2013","PC","Percentage","0","Units",,,0.86728224818585,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2014","2014","PC","Percentage","0","Units",,,0.92150577113341,,
+"B_XGDP","BERD as a percentage of GDP","NOR","Norway","2015","2015","PC","Percentage","0","Units",,,1.04076655376395,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2000","2000","PC","Percentage","0","Units",,,0.23167682241189,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2001","2001","PC","Percentage","0","Units",,,0.22317381967371,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2002","2002","PC","Percentage","0","Units",,,0.11348141312681,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2003","2003","PC","Percentage","0","Units",,,0.14773089971983,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2004","2004","PC","Percentage","0","Units",,,0.15846753130393,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2005","2005","PC","Percentage","0","Units",,,0.17871349705392,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2006","2006","PC","Percentage","0","Units",,,0.17370146865279,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2007","2007","PC","Percentage","0","Units",,,0.17057018116293,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2008","2008","PC","Percentage","0","Units",,,0.18534775350312,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2009","2009","PC","Percentage","0","Units",,,0.18836065669345,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2010","2010","PC","Percentage","0","Units",,,0.19189827419555,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2011","2011","PC","Percentage","0","Units",,,0.22476198499757,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2012","2012","PC","Percentage","0","Units",,,0.32779711696142,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2013","2013","PC","Percentage","0","Units",,,0.37971031637296,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2014","2014","PC","Percentage","0","Units",,,0.43798816540521,,
+"B_XGDP","BERD as a percentage of GDP","POL","Poland","2015","2015","PC","Percentage","0","Units",,,0.46747634246474,,
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2000","2000","PC","Percentage","0","Units",,,0.20048364864234,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2001","2001","PC","Percentage","0","Units",,,0.24318394926619,,
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2002","2002","PC","Percentage","0","Units",,,0.23429229243987,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2003","2003","PC","Percentage","0","Units",,,0.23128220579667,,
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2004","2004","PC","Percentage","0","Units",,,0.26253355104412,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2005","2005","PC","Percentage","0","Units",,,0.29121172763435,,
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2006","2006","PC","Percentage","0","Units",,,0.44295223575112,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2007","2007","PC","Percentage","0","Units",,,0.57605468246903,,
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2008","2008","PC","Percentage","0","Units",,,0.72403438554937,,
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2009","2009","PC","Percentage","0","Units",,,0.74726880909971,,
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2010","2010","PC","Percentage","0","Units",,,0.70377225759565,,
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2011","2011","PC","Percentage","0","Units",,,0.69045196529843,,
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2012","2012","PC","Percentage","0","Units",,,0.6848848634273,,
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2013","2013","PC","Percentage","0","Units",,,0.63012447332925,,
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2014","2014","PC","Percentage","0","Units",,,0.59855087607221,,
+"B_XGDP","BERD as a percentage of GDP","PRT","Portugal","2015","2015","PC","Percentage","0","Units",,,0.60086250364142,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2000","2000","PC","Percentage","0","Units",,,0.42068428825966,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2001","2001","PC","Percentage","0","Units",,,0.42122909570103,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2002","2002","PC","Percentage","0","Units",,,0.36274838688962,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2003","2003","PC","Percentage","0","Units",,,0.31049892153833,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2004","2004","PC","Percentage","0","Units",,,0.24667808955656,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2005","2005","PC","Percentage","0","Units",,,0.24624621649009,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2006","2006","PC","Percentage","0","Units",,,0.20480516530827,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2007","2007","PC","Percentage","0","Units",,,0.17728837060342,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2008","2008","PC","Percentage","0","Units",,,0.19813985135087,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2009","2009","PC","Percentage","0","Units",,,0.19426796853715,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2010","2010","PC","Percentage","0","Units",,,0.25932499688357,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2011","2011","PC","Percentage","0","Units",,,0.24656957612863,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2012","2012","PC","Percentage","0","Units",,,0.33282927607638,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2013","2013","PC","Percentage","0","Units",,,0.38102917609148,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2014","2014","PC","Percentage","0","Units",,,0.32480580273769,,
+"B_XGDP","BERD as a percentage of GDP","SVK","Slovak Republic","2015","2015","PC","Percentage","0","Units",,,0.32939802790874,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2000","2000","PC","Percentage","0","Units",,,0.47489330754352,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2001","2001","PC","Percentage","0","Units",,,0.46617590718313,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2002","2002","PC","Percentage","0","Units",,,0.52400932618699,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2003","2003","PC","Percentage","0","Units",,,0.55302960152936,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2004","2004","PC","Percentage","0","Units",,,0.5647570290915,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2005","2005","PC","Percentage","0","Units",,,0.58942982013097,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2006","2006","PC","Percentage","0","Units",,,0.65056529235873,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2007","2007","PC","Percentage","0","Units",,,0.68966076274487,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2008","2008","PC","Percentage","0","Units",,,0.72329962094844,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2009","2009","PC","Percentage","0","Units",,,0.70133063462319,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2010","2010","PC","Percentage","0","Units",,,0.69445394772752,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2011","2011","PC","Percentage","0","Units",,,0.69098273283303,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2012","2012","PC","Percentage","0","Units",,,0.68230112199185,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2013","2013","PC","Percentage","0","Units",,,0.67337821289076,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2014","2014","PC","Percentage","0","Units",,,0.65420902099757,,
+"B_XGDP","BERD as a percentage of GDP","ESP","Spain","2015","2015","PC","Percentage","0","Units",,,0.64333985563,,
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2001","2001","PC","Percentage","0","Units",,,3.03193056264199,"m","Underestimated or based on underestimated data"
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2003","2003","PC","Percentage","0","Units",,,2.68737446058669,"m","Underestimated or based on underestimated data"
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2004","2004","PC","Percentage","0","Units",,,2.49394409854854,"m","Underestimated or based on underestimated data"
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2005","2005","PC","Percentage","0","Units",,,2.46619604368511,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2006","2006","PC","Percentage","0","Units",,,2.61403299881481,,
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2007","2007","PC","Percentage","0","Units",,,2.37642525006422,,
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2008","2008","PC","Percentage","0","Units",,,2.5882933605778,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2009","2009","PC","Percentage","0","Units",,,2.4468231651487,,
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2010","2010","PC","Percentage","0","Units",,,2.21096967778922,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2011","2011","PC","Percentage","0","Units",,,2.24433944642763,,
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2012","2012","PC","Percentage","0","Units",,,2.22435410334347,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2013","2013","PC","Percentage","0","Units",,,2.27947146734842,,
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2014","2014","PC","Percentage","0","Units",,,2.1090773310574,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","SWE","Sweden","2015","2015","PC","Percentage","0","Units",,,2.28590398275288,,
+"B_XGDP","BERD as a percentage of GDP","CHE","Switzerland","2000","2000","PC","Percentage","0","Units",,,1.71978248290812,,
+"B_XGDP","BERD as a percentage of GDP","CHE","Switzerland","2004","2004","PC","Percentage","0","Units",,,1.9739701733832,,
+"B_XGDP","BERD as a percentage of GDP","CHE","Switzerland","2008","2008","PC","Percentage","0","Units",,,2.0054219534835,,
+"B_XGDP","BERD as a percentage of GDP","CHE","Switzerland","2012","2012","PC","Percentage","0","Units",,,2.28920229536711,,
+"B_XGDP","BERD as a percentage of GDP","CHE","Switzerland","2015","2015","PC","Percentage","0","Units",,,2.42583676962944,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2000","2000","PC","Percentage","0","Units",,,0.15644383982841,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2001","2001","PC","Percentage","0","Units",,,0.17758988139091,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2002","2002","PC","Percentage","0","Units",,,0.1471963711122,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2003","2003","PC","Percentage","0","Units",,,0.109046021254,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2004","2004","PC","Percentage","0","Units",,,0.12141546319576,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2005","2005","PC","Percentage","0","Units",,,0.19260587227286,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2006","2006","PC","Percentage","0","Units",,,0.20641545415568,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2007","2007","PC","Percentage","0","Units",,,0.2854740238318,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2008","2008","PC","Percentage","0","Units",,,0.30644909833461,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2009","2009","PC","Percentage","0","Units",,,0.32378890062852,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2010","2010","PC","Percentage","0","Units",,,0.33990180065943,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2011","2011","PC","Percentage","0","Units",,,0.34545366672965,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2012","2012","PC","Percentage","0","Units",,,0.37531499050163,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2013","2013","PC","Percentage","0","Units",,,0.38854330145837,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2014","2014","PC","Percentage","0","Units",,,0.4284747362916,,
+"B_XGDP","BERD as a percentage of GDP","TUR","Turkey","2015","2015","PC","Percentage","0","Units",,,0.44100986747466,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2000","2000","PC","Percentage","0","Units",,,1.06485402479315,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2001","2001","PC","Percentage","0","Units",,,1.06891551212547,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2002","2002","PC","Percentage","0","Units",,,1.06332483976491,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2003","2003","PC","Percentage","0","Units",,,1.02030747338523,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2004","2004","PC","Percentage","0","Units",,,0.97081404028282,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2005","2005","PC","Percentage","0","Units",,,0.96484341302411,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2006","2006","PC","Percentage","0","Units",,,0.98276776464575,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2007","2007","PC","Percentage","0","Units",,,1.02102005369426,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2008","2008","PC","Percentage","0","Units",,,1.01620785525606,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2009","2009","PC","Percentage","0","Units",,,1.02826071647869,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2010","2010","PC","Percentage","0","Units",,,1.02181388276429,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2011","2011","PC","Percentage","0","Units",,,1.06911981644367,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2012","2012","PC","Percentage","0","Units",,,1.02126869503129,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2013","2013","PC","Percentage","0","Units",,,1.0604847309353,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2014","2014","PC","Percentage","0","Units",,,1.09383367718713,,
+"B_XGDP","BERD as a percentage of GDP","GBR","United Kingdom","2015","2015","PC","Percentage","0","Units",,,1.11771446761225,"e; p","Estimated value; Provisional value"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2000","2000","PC","Percentage","0","Units",,,1.94424206878923,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2001","2001","PC","Percentage","0","Units",,,1.90190498355085,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2002","2002","PC","Percentage","0","Units",,,1.76604648374851,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2003","2003","PC","Percentage","0","Units",,,1.74380813627704,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2004","2004","PC","Percentage","0","Units",,,1.69696311049645,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2005","2005","PC","Percentage","0","Units",,,1.72723180552274,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2006","2006","PC","Percentage","0","Units",,,1.78746392869226,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2007","2007","PC","Percentage","0","Units",,,1.85988250152736,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2008","2008","PC","Percentage","0","Units",,,1.97492530190748,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2009","2009","PC","Percentage","0","Units",,,1.95851384784758,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2010","2010","PC","Percentage","0","Units",,,1.8642746919149,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2011","2011","PC","Percentage","0","Units",,,1.89517594039307,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2012","2012","PC","Percentage","0","Units",,,1.87091447174204,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2013","2013","PC","Percentage","0","Units",,,1.93228692155422,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2014","2014","PC","Percentage","0","Units",,,1.95898339703962,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","USA","United States","2015","2015","PC","Percentage","0","Units",,,1.99400686868203,"d; p","Definition differs; Provisional value"
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2000","2000","PC","Percentage","0","Units",,,0.10460596905582,,
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2001","2001","PC","Percentage","0","Units",,,0.08922389267082,,
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2002","2002","PC","Percentage","0","Units",,,0.09381334990604,,
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2003","2003","PC","Percentage","0","Units",,,0.10959072221881,,
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2004","2004","PC","Percentage","0","Units",,,0.13320547511744,,
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2005","2005","PC","Percentage","0","Units",,,0.13511495797758,,
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2006","2006","PC","Percentage","0","Units",,,0.13687354682932,,
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2007","2007","PC","Percentage","0","Units",,,0.13899425525976,,
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2008","2008","PC","Percentage","0","Units",,,0.12856506141439,,
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2009","2009","PC","Percentage","0","Units",,,0.1617015059692,"b; p","Time series break; Provisional value"
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2010","2010","PC","Percentage","0","Units",,,0.1515796570575,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2011","2011","PC","Percentage","0","Units",,,0.15623921505566,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2012","2012","PC","Percentage","0","Units",,,0.16095269433407,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2013","2013","PC","Percentage","0","Units",,,0.15016427660651,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2014","2014","PC","Percentage","0","Units",,,0.11807030741665,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","ARG","Argentina","2015","2015","PC","Percentage","0","Units",,,0.13402208331534,,
+"B_XGDP","BERD as a percentage of GDP","CHL","Chile","2007","2007","PC","Percentage","0","Units",,,0.10750719515006,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","CHL","Chile","2008","2008","PC","Percentage","0","Units",,,0.15156175305368,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","CHL","Chile","2009","2009","PC","Percentage","0","Units",,,0.10322210210645,"b; y","Time series break; Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","CHL","Chile","2010","2010","PC","Percentage","0","Units",,,0.09759018279968,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","CHL","Chile","2011","2011","PC","Percentage","0","Units",,,0.11964665171653,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","CHL","Chile","2012","2012","PC","Percentage","0","Units",,,0.12470110826094,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","CHL","Chile","2013","2013","PC","Percentage","0","Units",,,0.13604558694563,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","CHL","Chile","2014","2014","PC","Percentage","0","Units",,,0.12495821104019,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","CHL","Chile","2015","2015","PC","Percentage","0","Units",,,0.13135402285617,"p; y","Provisional value; Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2000","2000","PC","Percentage","0","Units",,,0.53554572221379,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2001","2001","PC","Percentage","0","Units",,,0.56829538984651,,
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2002","2002","PC","Percentage","0","Units",,,0.6472368540181,,
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2003","2003","PC","Percentage","0","Units",,,0.69875259447121,,
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2004","2004","PC","Percentage","0","Units",,,0.81189366100478,,
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2005","2005","PC","Percentage","0","Units",,,0.89356322293159,,
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2006","2006","PC","Percentage","0","Units",,,0.97272802713216,,
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2007","2007","PC","Percentage","0","Units",,,0.99245771054656,,
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2008","2008","PC","Percentage","0","Units",,,1.05837966258606,,
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2009","2009","PC","Percentage","0","Units",,,1.217080991747,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2010","2010","PC","Percentage","0","Units",,,1.255468394075,,
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2011","2011","PC","Percentage","0","Units",,,1.34464049367447,,
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2012","2012","PC","Percentage","0","Units",,,1.451279363747,,
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2013","2013","PC","Percentage","0","Units",,,1.52472583488856,,
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2014","2014","PC","Percentage","0","Units",,,1.56227346428012,,
+"B_XGDP","BERD as a percentage of GDP","CHN","China (People's Republic of)","2015","2015","PC","Percentage","0","Units",,,1.5873462418076,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2000","2000","PC","Percentage","0","Units",,,0.1350569827218,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2001","2001","PC","Percentage","0","Units",,,0.23516648847938,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2002","2002","PC","Percentage","0","Units",,,0.21967452630754,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2003","2003","PC","Percentage","0","Units",,,0.26015552117352,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2004","2004","PC","Percentage","0","Units",,,0.33194591457032,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2005","2005","PC","Percentage","0","Units",,,0.41641954416469,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2006","2006","PC","Percentage","0","Units",,,0.49619776144363,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2007","2007","PC","Percentage","0","Units",,,0.50397142509866,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2008","2008","PC","Percentage","0","Units",,,0.54415164694341,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2009","2009","PC","Percentage","0","Units",,,0.62355045088019,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2010","2010","PC","Percentage","0","Units",,,0.79341512845848,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2011","2011","PC","Percentage","0","Units",,,1.45698365415252,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2012","2012","PC","Percentage","0","Units",,,1.2210672711985,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2013","2013","PC","Percentage","0","Units",,,0.8237107838363,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2014","2014","PC","Percentage","0","Units",,,0.63178056545345,,
+"B_XGDP","BERD as a percentage of GDP","EST","Estonia","2015","2015","PC","Percentage","0","Units",,,0.68858617662151,,
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2000","2000","PC","Percentage","0","Units",,,3.16564448024131,"b; d","Time series break; Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2001","2001","PC","Percentage","0","Units",,,3.38505941436605,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2002","2002","PC","Percentage","0","Units",,,3.3124379715696,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2003","2003","PC","Percentage","0","Units",,,3.06043869355226,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2004","2004","PC","Percentage","0","Units",,,3.11012282783939,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2005","2005","PC","Percentage","0","Units",,,3.3007433223096,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2006","2006","PC","Percentage","0","Units",,,3.39225587477873,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2007","2007","PC","Percentage","0","Units",,,3.72051964306132,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2008","2008","PC","Percentage","0","Units",,,3.60831446038623,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2009","2009","PC","Percentage","0","Units",,,3.45483565110561,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2010","2010","PC","Percentage","0","Units",,,3.27018307683181,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2011","2011","PC","Percentage","0","Units",,,3.36576868001767,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2012","2012","PC","Percentage","0","Units",,,3.4991318809404,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2013","2013","PC","Percentage","0","Units",,,3.49273513334731,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2014","2014","PC","Percentage","0","Units",,,3.61951056993353,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ISR","Israel","2015","2015","PC","Percentage","0","Units",,,3.63009343825572,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2000","2000","PC","Percentage","0","Units",,,0.25297931843992,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2001","2001","PC","Percentage","0","Units",,,0.23919301732822,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2002","2002","PC","Percentage","0","Units",,,0.22679086680207,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2003","2003","PC","Percentage","0","Units",,,0.22306789406982,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2004","2004","PC","Percentage","0","Units",,,0.21186294862744,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2005","2005","PC","Percentage","0","Units",,,0.20260333616993,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2006","2006","PC","Percentage","0","Units",,,0.2187941186896,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2007","2007","PC","Percentage","0","Units",,,0.21673374250672,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2008","2008","PC","Percentage","0","Units",,,0.17029352463163,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2009","2009","PC","Percentage","0","Units",,,0.18550532904701,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2010","2010","PC","Percentage","0","Units",,,0.17321834393463,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2011","2011","PC","Percentage","0","Units",,,0.17776340070345,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2012","2012","PC","Percentage","0","Units",,,0.18802426670057,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2013","2013","PC","Percentage","0","Units",,,0.11855086468713,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2014","2014","PC","Percentage","0","Units",,,0.15856224619977,,
+"B_XGDP","BERD as a percentage of GDP","ROU","Romania","2015","2015","PC","Percentage","0","Units",,,0.21513995643667,,
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2000","2000","PC","Percentage","0","Units",,,0.69739531177737,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2001","2001","PC","Percentage","0","Units",,,0.77626129015009,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2002","2002","PC","Percentage","0","Units",,,0.81744000437627,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2003","2003","PC","Percentage","0","Units",,,0.82511317278732,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2004","2004","PC","Percentage","0","Units",,,0.74554989904288,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2005","2005","PC","Percentage","0","Units",,,0.68059801601832,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2006","2006","PC","Percentage","0","Units",,,0.67040912056063,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2007","2007","PC","Percentage","0","Units",,,0.67219471862599,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2008","2008","PC","Percentage","0","Units",,,0.61597968203048,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2009","2009","PC","Percentage","0","Units",,,0.73211027137238,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2010","2010","PC","Percentage","0","Units",,,0.641154133744,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2011","2011","PC","Percentage","0","Units",,,0.62328414396532,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2012","2012","PC","Percentage","0","Units",,,0.61004562274174,"y","Compiled according to the System of National Accounts 1993"
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2013","2013","PC","Percentage","0","Units",,,0.63986233711157,,
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2014","2014","PC","Percentage","0","Units",,,0.6378945434468,,
+"B_XGDP","BERD as a percentage of GDP","RUS","Russia","2015","2015","PC","Percentage","0","Units",,,0.65062605311477,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2000","2000","PC","Percentage","0","Units",,,1.12944715466838,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2001","2001","PC","Percentage","0","Units",,,1.2783451285834,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2002","2002","PC","Percentage","0","Units",,,1.27031835813643,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2003","2003","PC","Percentage","0","Units",,,1.23150391429383,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2004","2004","PC","Percentage","0","Units",,,1.34195210360514,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2005","2005","PC","Percentage","0","Units",,,1.42937789639465,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2006","2006","PC","Percentage","0","Units",,,1.40225481337961,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2007","2007","PC","Percentage","0","Units",,,1.56128590414747,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2008","2008","PC","Percentage","0","Units",,,1.88249854401059,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2009","2009","PC","Percentage","0","Units",,,1.33085014650287,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2010","2010","PC","Percentage","0","Units",,,1.22459602743508,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2011","2011","PC","Percentage","0","Units",,,1.33512573236905,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2012","2012","PC","Percentage","0","Units",,,1.22181112777627,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2013","2013","PC","Percentage","0","Units",,,1.18777106257859,,
+"B_XGDP","BERD as a percentage of GDP","SGP","Singapore","2014","2014","PC","Percentage","0","Units",,,1.33581516895976,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2000","2000","PC","Percentage","0","Units",,,0.76383065707995,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2001","2001","PC","Percentage","0","Units",,,0.84807609959517,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2002","2002","PC","Percentage","0","Units",,,0.85864375924845,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2003","2003","PC","Percentage","0","Units",,,0.79601060626743,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2004","2004","PC","Percentage","0","Units",,,0.91626227892165,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2005","2005","PC","Percentage","0","Units",,,0.83088434625039,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2006","2006","PC","Percentage","0","Units",,,0.92327200304543,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2007","2007","PC","Percentage","0","Units",,,0.85185754395845,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2008","2008","PC","Percentage","0","Units",,,1.04943613220495,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2009","2009","PC","Percentage","0","Units",,,1.17346851377981,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2010","2010","PC","Percentage","0","Units",,,1.39526365733153,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2011","2011","PC","Percentage","0","Units",,,1.79010764431963,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2012","2012","PC","Percentage","0","Units",,,1.95291448140539,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2013","2013","PC","Percentage","0","Units",,,1.99219385005997,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2014","2014","PC","Percentage","0","Units",,,1.84428996317585,,
+"B_XGDP","BERD as a percentage of GDP","SVN","Slovenia","2015","2015","PC","Percentage","0","Units",,,1.6867481819752,"p","Provisional value"
+"B_XGDP","BERD as a percentage of GDP","ZAF","South Africa","2001","2001","PC","Percentage","0","Units",,,0.3846101423609,"m","Underestimated or based on underestimated data"
+"B_XGDP","BERD as a percentage of GDP","ZAF","South Africa","2003","2003","PC","Percentage","0","Units",,,0.42174299199859,,
+"B_XGDP","BERD as a percentage of GDP","ZAF","South Africa","2004","2004","PC","Percentage","0","Units",,,0.45823212830899,,
+"B_XGDP","BERD as a percentage of GDP","ZAF","South Africa","2005","2005","PC","Percentage","0","Units",,,0.50289802556529,,
+"B_XGDP","BERD as a percentage of GDP","ZAF","South Africa","2006","2006","PC","Percentage","0","Units",,,0.50250902468196,,
+"B_XGDP","BERD as a percentage of GDP","ZAF","South Africa","2007","2007","PC","Percentage","0","Units",,,0.50905189945305,,
+"B_XGDP","BERD as a percentage of GDP","ZAF","South Africa","2008","2008","PC","Percentage","0","Units",,,0.52054386058961,,
+"B_XGDP","BERD as a percentage of GDP","ZAF","South Africa","2009","2009","PC","Percentage","0","Units",,,0.4442053741371,,
+"B_XGDP","BERD as a percentage of GDP","ZAF","South Africa","2010","2010","PC","Percentage","0","Units",,,0.36604733319554,,
+"B_XGDP","BERD as a percentage of GDP","ZAF","South Africa","2011","2011","PC","Percentage","0","Units",,,0.34592368603657,,
+"B_XGDP","BERD as a percentage of GDP","ZAF","South Africa","2012","2012","PC","Percentage","0","Units",,,0.32400245820364,,
+"B_XGDP","BERD as a percentage of GDP","ZAF","South Africa","2013","2013","PC","Percentage","0","Units",,,0.33338307406191,,
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2000","2000","PC","Percentage","0","Units",,,1.21432438514732,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2001","2001","PC","Percentage","0","Units",,,1.28266447953571,"d","Definition differs"
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2002","2002","PC","Percentage","0","Units",,,1.3067158044892,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2003","2003","PC","Percentage","0","Units",,,1.3917178256601,"b","Time series break"
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2004","2004","PC","Percentage","0","Units",,,1.46178736279088,,
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2005","2005","PC","Percentage","0","Units",,,1.55794007039548,,
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2006","2006","PC","Percentage","0","Units",,,1.63943379902369,,
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2007","2007","PC","Percentage","0","Units",,,1.71190784647673,,
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2008","2008","PC","Percentage","0","Units",,,1.89239814332805,,
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2009","2009","PC","Percentage","0","Units",,,1.99078443009134,,
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2010","2010","PC","Percentage","0","Units",,,2.00733956063982,,
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2011","2011","PC","Percentage","0","Units",,,2.10643128596582,,
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2012","2012","PC","Percentage","0","Units",,,2.19318594481061,,
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2013","2013","PC","Percentage","0","Units",,,2.27307303966012,,
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2014","2014","PC","Percentage","0","Units",,,2.31518373606237,,
+"B_XGDP","BERD as a percentage of GDP","TWN","Chinese Taipei","2015","2015","PC","Percentage","0","Units",,,2.36984885246246,,
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2000","2000","PC","Percentage","0","Units",,,1.47334476493333,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2001","2001","PC","Percentage","0","Units",,,1.49111644646606,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2002","2002","PC","Percentage","0","Units",,,1.44126873730314,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2003","2003","PC","Percentage","0","Units",,,1.43548027719811,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2004","2004","PC","Percentage","0","Units",,,1.41878850263353,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2005","2005","PC","Percentage","0","Units",,,1.44981439976524,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2006","2006","PC","Percentage","0","Units",,,1.48945007224839,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2007","2007","PC","Percentage","0","Units",,,1.52184688899787,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2008","2008","PC","Percentage","0","Units",,,1.57072143225506,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2009","2009","PC","Percentage","0","Units",,,1.55658962495346,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2010","2010","PC","Percentage","0","Units",,,1.51935603982047,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2011","2011","PC","Percentage","0","Units",,,1.55862362080437,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2012","2012","PC","Percentage","0","Units",,,1.5689275517359,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2013","2013","PC","Percentage","0","Units",,,1.59920289311705,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2014","2014","PC","Percentage","0","Units",,,1.6341998485914,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","OECD","OECD - Total","2015","2015","PC","Percentage","0","Units",,,1.64433304370634,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2000","2000","PC","Percentage","0","Units",,,1.1411365918529,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2001","2001","PC","Percentage","0","Units",,,1.15713517000483,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2002","2002","PC","Percentage","0","Units",,,1.15660656932359,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2003","2003","PC","Percentage","0","Units",,,1.14698326872153,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2004","2004","PC","Percentage","0","Units",,,1.13139964016796,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2005","2005","PC","Percentage","0","Units",,,1.1263201851128,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2006","2006","PC","Percentage","0","Units",,,1.1521214080073,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2007","2007","PC","Percentage","0","Units",,,1.16696073524527,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2008","2008","PC","Percentage","0","Units",,,1.21195007380846,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2009","2009","PC","Percentage","0","Units",,,1.23647695180728,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2010","2010","PC","Percentage","0","Units",,,1.23738015297356,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2011","2011","PC","Percentage","0","Units",,,1.28966934812335,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2012","2012","PC","Percentage","0","Units",,,1.31835799566237,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2013","2013","PC","Percentage","0","Units",,,1.32011866798592,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2014","2014","PC","Percentage","0","Units",,,1.34271227921643,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU15","European Union (15 countries)","2015","2015","PC","Percentage","0","Units",,,1.35359216656278,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2000","2000","PC","Percentage","0","Units",,,1.06353865753829,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2001","2001","PC","Percentage","0","Units",,,1.07663529206062,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2002","2002","PC","Percentage","0","Units",,,1.0658987310926,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2003","2003","PC","Percentage","0","Units",,,1.0554957976672,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2004","2004","PC","Percentage","0","Units",,,1.03994892850699,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2005","2005","PC","Percentage","0","Units",,,1.03379620790928,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2006","2006","PC","Percentage","0","Units",,,1.05658968666791,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2007","2007","PC","Percentage","0","Units",,,1.06553677751844,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2008","2008","PC","Percentage","0","Units",,,1.0997860928305,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2009","2009","PC","Percentage","0","Units",,,1.12131556998689,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2010","2010","PC","Percentage","0","Units",,,1.12267678429385,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2011","2011","PC","Percentage","0","Units",,,1.17187631968746,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2012","2012","PC","Percentage","0","Units",,,1.20396326515933,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2013","2013","PC","Percentage","0","Units",,,1.20959777162028,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2014","2014","PC","Percentage","0","Units",,,1.23362211858459,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","EU28","European Union (28 countries)","2015","2015","PC","Percentage","0","Units",,,1.24543055571634,"e","Estimated value"
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2000","2000","PC","Percentage","0","Units",,,0.17551529965318,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2001","2001","PC","Percentage","0","Units",,,0.14667198204425,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2002","2002","PC","Percentage","0","Units",,,0.1672456398378,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2003","2003","PC","Percentage","0","Units",,,0.12362850898667,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2004","2004","PC","Percentage","0","Units",,,0.177976079065,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2005","2005","PC","Percentage","0","Units",,,0.21571375703526,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2006","2006","PC","Percentage","0","Units",,,0.32780712969441,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2007","2007","PC","Percentage","0","Units",,,0.18027742813356,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2008","2008","PC","Percentage","0","Units",,,0.14549364744745,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2009","2009","PC","Percentage","0","Units",,,0.16475949737693,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2010","2010","PC","Percentage","0","Units",,,0.22606795083544,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2011","2011","PC","Percentage","0","Units",,,0.19342837163871,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2012","2012","PC","Percentage","0","Units",,,0.15005291375663,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2013","2013","PC","Percentage","0","Units",,,0.17290933740264,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2014","2014","PC","Percentage","0","Units",,,0.24459238192906,,
+"B_XGDP","BERD as a percentage of GDP","LVA","Latvia","2015","2015","PC","Percentage","0","Units",,,0.15470938867262,,

@@ -1,15 +1,19 @@
 ---
-title: "New Zealand's Progress on Increasing Business Expenditure on Research and Development"
-author: "John Beal"
-date: "16 October 2017"
-output: pdf_document
+output:
+  pdf_document: default
+  html_document: default
+  author: John Beal
+  date: 18 October 2017
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
+library(knitr)
+require(dplyr)
+require(reshape2)
 ```
 
-```{r BERD by Industry}
+```{r BERD by Industry, echo = FALSE}
 ## http://www.stats.govt.nz/infoshare/
 ## Research and Development Survey (RAD)
 ## Table: Total research and development expenditure by industry (Annual-Jun) 
@@ -20,7 +24,7 @@ BERD_industry <- read.csv(file = "RAD522801_20171017_065838_61.csv",
 colnames(BERD_industry)[1] <- "Year"
 ```
 
-```{r BERD by Industry Group}
+```{r BERD by Industry Group, echo = FALSE}
 ## http://www.stats.govt.nz/infoshare/
 ## Research and Development Survey (RAD)
 ## Table: Total research and development expenditure by industry (Annual-Jun) 
@@ -29,6 +33,31 @@ colnames(BERD_industry)[1] <- "Year"
 BERD_industry_group <- read.csv(file = "RAD522801_20171017_082358_86.csv", 
                           skip = 1, header = TRUE, check.names = TRUE, nrow = 5, na.strings = "..")
 colnames(BERD_industry_group)[1] <- "Year"
+```
+
+
+```{r BERD %GDP OECD, echo = FALSE}
+## https://stats.oecd.org/Index.aspx?DataSetCode=MSTI_PUB
+## OECD Main Scince and Technology Indicators (MSTI)
+## BERD as a percentage of GDP
+## Downloaded: 17 October 2017 2:30 pm
+BERD_GDP <- read.csv(file = "MSTI_PUB_17102017015101164.csv")
+```
+
+
+```{r BERD by Industry Group (GDP)}
+## Add column for total BERD by year
+BERD_industry_group[ , "Total"] <- summarise(group_by(melt(BERD_industry_group, id.vars = "Year"), Year), 
+                                             Total = sum(value))[ , "Total"]
+
+## Append BERD as %GDP from OECD dataset (Note: figure don't match Stats NZ, switching to Stats NZ revised figures)
+##BERD_industry_group[ , "%GDP"] <- mutate(filter(BERD_GDP, Country == "New Zealand", YEAR > 2006), 
+##                                         Value = round(Value, 2))[ , "Value"]
+
+## BERD as %GDP (revised were available) was taken from the series of Stats NZ Research and Development Surveys
+## Each individual survey contains only the figures from the current and previous period
+BERD_industry_group[ , "%GDP"] <- c(0.51, 0.51, 0.57, 0.54, 0.64)
+
 ```
 
 
@@ -42,47 +71,75 @@ The purpose of this briefing is to update you on the current progress towards me
 
 ##Introduction
 
-BERD is a measure which covers Research and Development (R & D) activities carried out in the business sector. BERD is more closely associated with the creation of new products and improved production techniques than other forms of R & D expenditure (e.g. Government Expenditure on R & D [GOVERD] or Higher Education Expenditure on R & D [HERD]), and is therefore more strongly associated with economic development.  
+In 2015, as part of the *National Statement of Science Investment 2015-2025*, the government set the aspirational goal of increasing New Zealand's BERD to 1% of GDP by 2018. BERD is a measure which covers Research and Development (R & D) activities carried out in the business sector, and is more closely associated with economic development than other forms of R & D expenditure (e.g. Government Expenditure on R & D [GOVERD] or Higher Education Expenditure on R & D [HERD]). 
+
+
+
 
 <!---
 BERD includes R & D performed by business, even if the funding is received elsewhere (e.g. government grants). BERD does not include R & D funded by business, but performed by government or higher educational institutions.
 -->
 
-It is for this reason that the aspirational goal of increasing New Zealand's BERD to 1% of GDP by 2018 was included in the *National Statement of Science Investment* in 2015.  
+  
 
-[OECD] (http://www.oecd.org/innovation/inno/frascatimanualproposedstandardpracticeforsurveysonresearchandexperimentaldevelopment6thedition.htm]) 
 
 ##Progress to Date
 
-BERD in New zealand is measured by Statistics New Zealand in the biennial Research and Development Survey. The most recent results (for 2016) were released in March 2017. The next release of the survey is scheduled for 3 April 2019.    
 
-```{r Plot_BERD message = FALSE}
+BERD in New zealand is measured by Statistics New Zealand in the biennial Research and Development Survey. The most recent results (for 2016) were released in March 2017. The next release of the survey is scheduled for 3 April 2019.
+
+In 2016 BERD had increased by $`r select(filter(BERD_industry_group, Year == 2016), Total) - select(filter(BERD_industry_group, Year == 2014), Total)` million since 2014 to reach $`r prettyNum(select(filter(BERD_industry_group, Year == 2016), Total), big.mark = "," )` million. 
+
+The breakdown of the contribution of the primary, manufacturing and services sectors to BERD for the period 2008 - 2016 is shown in the graph below. The services grouping had the largest increase in R & D expenditure, up $`r select(filter(BERD_industry_group, Year == 2016), Services.total) - select(filter(BERD_industry_group, Year == 2014), Services.total)` million to $`r select(filter(BERD_industry_group, Year == 2016), Services.total)` million. Within the services grouping, computer services had the largest growth, up $`r select(filter(BERD_industry, Year == 2016), Computer.services) - select(filter(BERD_industry, Year == 2014), Computer.services)` million (`r round(((select(filter(BERD_industry, Year == 2016), Computer.services) - select(filter(BERD_industry, Year == 2014), Computer.services))/select(filter(BERD_industry, Year == 2014), Computer.services)*100), 0) `%) since 2014.    
+
+The Primary industries grouping made the smallest contribution to BERD, with an expenditure of $`r select(filter(BERD_industry_group, Year == 2016), Primary.total)` million in 2016. It is recognised in the *National Statent of Science Investment* that New Zealand's primary industries are characterised by a large number of small producers making the same product, meaning that investment by individual firms in R & D is often uneconomic. This has been addressed historically by R & D for these producers being undertaken in Crown Research Institutes (CRIs) and universities - and therefore this expenditure is not counted statistically as BERD.   
+
+
+
+
+
+
+```{r Plot_BERD, message = FALSE, warning= FALSE, eval = FALSE, echo = FALSE}
 require(ggplot2)
 require(reshape2)
+require(ggthemes)
 BERD_industry_melt <- melt(BERD_industry, id.vars = "Year")
-names(BERD_industry_group_melt)[2] <- "Industry"
+names(BERD_industry_melt)[2] <- "Industry"
 BERDplot <- ggplot(data = BERD_industry_melt,aes(y = value, x = Year, fill = Industry)) + 
                     theme_economist() +
-                    theme(plot.title=element_text(family="OfficinaSanITC-Book"),
-                          text=element_text(family="OfficinaSanITC-Book")) +
                     geom_bar(stat = "identity") +
                     ylab("$(million)") + scale_x_continuous(breaks = seq(2008, 2016, 2), name = "")
-
+plot(BERDplot)
 ```
 
 
-```{r Plot_BERD_group message = FALSE}
+```{r Plot_BERD_group, echo = FALSE, message = FALSE}
 require(ggplot2)
+require(ggthemes)
 require(reshape2)
+
 BERD_industry_group_melt <- melt(BERD_industry_group, id.vars = "Year")
 names(BERD_industry_group_melt)[2] <- "Industry"
 BERDplot_group <- ggplot(data = BERD_industry_group_melt,aes(y = value, x = Year, fill = Industry)) + 
+                    geom_bar(data = subset(BERD_industry_group_melt, 
+                            Industry %in% c("Primary.total", "Manufacturing.total", "Services.total")), 
+                            stat = "identity") + 
                     theme_economist() +
-                    theme(plot.title=element_text(family="OfficinaSanITC-Book"),
-                          text=element_text(family="OfficinaSanITC-Book")) +
-                    geom_bar(stat = "identity") +
-                    ylab("$(million)") + scale_x_continuous(breaks = seq(2008, 2016, 2), name = "")
-
+                    theme(axis.title.y = element_text(angle = 0, vjust = 1),
+                          axis.text.y = element_text(hjust = 1),
+                          plot.subtitle = element_text(size = 15, hjust = 0.5),
+                          plot.caption = element_text(hjust = 0)) +
+                    scale_fill_economist(name = "",
+                                    labels = c("Primary (total)", "Manufacturing (total)", "Services (total)", "")) +
+                    scale_x_continuous(breaks = seq(2008, 2016, 2), name = "") +
+                    scale_y_continuous(labels = scales::comma, limits = c(0, 2000)) +
+                    ggtitle("Business expenditure on research and development", subtitle = "By industry") +
+                    labs(y = "$(million)", 
+                         caption = "Source: Stats NZ     (Figures in parentheses give BERD as a percentage of GDP)") +
+                    geom_text(data = subset(BERD_industry_group_melt, Industry == "%GDP"), 
+                              aes(x = Year, y = 1750,label = paste("(", value, ")")), 
+                              show.legend = FALSE, inherit.aes = FALSE)
+plot(BERDplot_group)
 ```
 
 
