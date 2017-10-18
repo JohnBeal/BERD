@@ -174,8 +174,30 @@ The manufacturing sector expenditure increased  $`r prettyNum((select(filter(BER
 
 In the 2016 survey, a total of `r sum(select(filter(RDExpectations_2016, Response %in% c("Increase", "Stay the same")), Business.sector.total))`% of businesses undertaking R & D expected their expenditure on R & D in the next year to either rise or stay the same, up from `r sum(select(filter(RDExpectations_2014, Response %in% c("Increase", "Stay the same")), Business.sector.total))`% in 2014. The computer services industry was the most positive about future R & D expenditure, with `r sum(select(filter(RDExpectations_2016, Response == "Increase"), Computer.services))`% of businesses anticipating to increase their R & D expenditure in the next year. 
 
+```{r Plot_RDIntentions, message = FALSE, warning= FALSE, eval = FALSE, echo = FALSE}
+require(ggplot2)
+require(ggthemes)
+require(reshape2)
+
+df <- select(filter(melt(RDExpectations_2016), variable == "Business.sector.total"), X., value)
+names(df) <- c("Response", "%")
+
+Plot_RDintentions <-  ggplot(data = df, 
+                             aes(x = "", y = "%", fill = Response)) +
+                      geom_bar(stat = "identity") +
+                      theme_economist()
+plot(Plot_RDintentions)
+```
+
+
 ##Conclusion
 
 New Zealand's BERD has grown by $`r prettyNum((select(filter(BERD_industry_group, Year == 2016), Total)-select(filter(BERD_industry_group, Year == 2008), Total)))` million or `r round((select(filter(BERD_industry_group, Year == 2016), "%GDP")-select(filter(BERD_industry_group, Year == 2008), "%GDP")), 2)` percentage points of GDP between 2008 and 2016, with the biggest increase occurring between 2014 and 2016. The services sector made the largest contribution to increasing BERD, and the computer services industry in particular. Manufacturing made the next largest contribution, while the primary industries sector increased expenditure only marginally. 
 
+Although recent strong growth in BERD has started to close the gap between current levels of BERD and the aspirational goal of 1% GDP, this target is unlikely to be met by the target of 2018. This would require significant growth in BERD over a short time period of two years between 2016 and 2018, at a time when robust economic growth means expenditure must increase in dollar terms to maintain its level in terms of percentage of GDP.
+
+There are high-levels of business confidence in maintaining or increasing expenditure on R & D in 2017 (`r sum(select(filter(RDExpectations_2016, Response %in% c("Increase", "Stay the same")), Business.sector.total))`%) among businesses undertaking R & D, and especially among industries with a track record of strong recent increases in R & D expenditure, such as the computer services industry. This is supportive of further strong increases in BERD in the medium term  towards the target of 1% of GDP. 
+
 ##Recommendations
+
+The ministry could perform further analysis on how the leveraging of government expenditure by businesses for co-funded R & D activities (e.g business grants administered by Callaghan Innovation) affects their current and anticipated future R & D investment levels. Particular focus could be given to industries with strong recent growth in BERD, such as the computer services industry. The ministry could provide further advice as to whether there are opportunities for promoting similar increases in R & D expenditure through policy settings in industries with an acknowledged long term lack of BERD (e.g. primary industries).    
