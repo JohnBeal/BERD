@@ -1,9 +1,10 @@
 ---
 output:
   pdf_document: default
+  date: "18 October 2017"
   html_document: default
-  author: John Beal
-  date: 18 October 2017
+  author: "John Beal"
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -60,6 +61,24 @@ BERD_industry_group[ , "%GDP"] <- c(0.51, 0.51, 0.57, 0.54, 0.64)
 
 ```
 
+```{r Future Expectations}
+## http://www.stats.govt.nz/infoshare/
+## Research and Development Survey (RAD)
+## Table: Businesses expectations of own firm's research and development for the next year (Annual-Jun) 
+## R & D Industry Split: All; Time: 2016
+## Downloaded: 18 October 2017 11:30 pm Last Updated: 29 March 2017 10:45 am 
+
+RDExpectations_2016 <- read.csv(file = "RAD523801_20171018_113944_29.csv", skip = 2, header = TRUE, 
+                                check.names = TRUE, nrow = 5, na.strings = "..")
+names(RDExpectations_2016)[1] <- "Response"
+
+## R & D Industry Split: All; Time: 2014
+## Downloaded: 18 October 2017 12 am Last Updated: 29 March 2017 10:45 am 
+RDExpectations_2014 <- read.csv(file = "RAD523801_20171018_115604_12.csv", skip = 2, header = TRUE, 
+                                check.names = TRUE, nrow = 5, na.strings = "..")
+names(RDExpectations_2014)[1] <- "Response"
+```
+
 
 Minister of Science and Innovation
 
@@ -67,11 +86,15 @@ Minister of Science and Innovation
 
 ##Purpose
 
-The purpose of this briefing is to update you on the current progress towards meeting the government goal of increasing Business Expenditure on Research and Development (BERD) to 1% of GDP by 2018.
+The purpose of this briefing is to update you on the progress towards the goal of increasing Business Expenditure on Research and Development (BERD) to 1% of GDP by 2018. 
 
 ##Introduction
 
-In 2015, as part of the *National Statement of Science Investment 2015-2025*, the government set the aspirational goal of increasing New Zealand's BERD to 1% of GDP by 2018. BERD is a measure which covers Research and Development (R & D) activities carried out in the business sector, and is more closely associated with economic development than other forms of R & D expenditure (e.g. Government Expenditure on R & D [GOVERD] or Higher Education Expenditure on R & D [HERD]). 
+In 2015, as part of the *National Statement of Science Investment 2015-2025*, the government set the aspirational goal of increasing New Zealand's BERD to 1% of GDP by 2018.This is part of longer term objective of increasing New Zealand's BERD to well above 1% of GDP by 2025 and promoting a thriving independent research sector.
+
+BERD is a measure of Research and Development (R & D) activities *performed* in the business sector. The expenditure on R & D activities can include funding from sources other than the businesses' own investment e.g. government grants administered by Callaghan Innovation. BERD does not include R & D expenditure on behalf of businesses conducted in universities or government institutions e.g. Crown Research Institutes (CRIs).
+
+Increasing BERD is critically important to improving New Zealand's economy. This is because of the important role BERD plays in innovation, and the development of new products and improved production techniques. Increasing BERD will support the economy's long term productivity and New Zealand's international competitiveness. New Zealand's level of BERD, although growing, remains low compared to other small advanced countries.   
 
 
 
@@ -86,14 +109,13 @@ BERD includes R & D performed by business, even if the funding is received elsew
 ##Progress to Date
 
 
-BERD in New zealand is measured by Statistics New Zealand in the biennial Research and Development Survey. The most recent results (for 2016) were released in March 2017. The next release of the survey is scheduled for 3 April 2019.
+BERD in New Zealand is measured by Statistics New Zealand in the two-yearly Research and Development Survey. The most recent survey was for 2016 and the results were released in March 2017. The next  survey is scheduled for 2018 and the results are expected to be released in April 2019.
 
-In 2016 BERD had increased by $`r select(filter(BERD_industry_group, Year == 2016), Total) - select(filter(BERD_industry_group, Year == 2014), Total)` million since 2014 to reach $`r prettyNum(select(filter(BERD_industry_group, Year == 2016), Total), big.mark = "," )` million. 
+BERD in terms of expenditure and as a percentage of GDP for the period 2008 - 2016 is shown in the graph below. The expenditure on R & D is broken down to show the contribution of the primary, manufacturing and services industry sectors. Since 2008, BERD has grown from `r select(filter(BERD_industry_group, Year == 2008), "%GDP")`% to `r select(filter(BERD_industry_group, Year == 2016), "%GDP")`% of GDP. As can be noted for the period 2012 - 2014, BERD can *increase* in dollar terms (from $`r prettyNum(select(filter(BERD_industry_group, Year == 2012), Total), big.mark = ",")` million to $`r prettyNum(select(filter(BERD_industry_group, Year == 2014), Total), big.mark = ",")` million), but still *decrease* as a percentage of GDP (from `r select(filter(BERD_industry_group, Year == 2012), "%GDP")`% to `r select(filter(BERD_industry_group, Year == 2014), "%GDP")`% of GDP) if the growth in expenditure is not as rapid as the growth in GDP over the period. 
 
-The breakdown of the contribution of the primary, manufacturing and services sectors to BERD for the period 2008 - 2016 is shown in the graph below. The services grouping had the largest increase in R & D expenditure, up $`r select(filter(BERD_industry_group, Year == 2016), Services.total) - select(filter(BERD_industry_group, Year == 2014), Services.total)` million to $`r select(filter(BERD_industry_group, Year == 2016), Services.total)` million. Within the services grouping, computer services had the largest growth, up $`r select(filter(BERD_industry, Year == 2016), Computer.services) - select(filter(BERD_industry, Year == 2014), Computer.services)` million (`r round(((select(filter(BERD_industry, Year == 2016), Computer.services) - select(filter(BERD_industry, Year == 2014), Computer.services))/select(filter(BERD_industry, Year == 2014), Computer.services)*100), 0) `%) since 2014.    
+The services sector has had the largest increase in R & D expenditure over the eight year period from 2008, up $`r prettyNum((select(filter(BERD_industry_group, Year == 2016), Services.total)-select(filter(BERD_industry_group, Year == 2008), Services.total)))` million to $`r prettyNum(select(filter(BERD_industry_group, Year == 2016), Services.total), big.mark = ",")` million (`r round(((select(filter(BERD_industry_group, Year == 2016), Services.total)-select(filter(BERD_industry_group, Year == 2008), Services.total))/select(filter(BERD_industry_group, Year == 2008), Services.total))*100, 0)`%). The manufacturing sector expenditure increased  $`r prettyNum((select(filter(BERD_industry_group, Year == 2016), Manufacturing.total)-select(filter(BERD_industry_group, Year == 2008), Manufacturing.total)))` million to $`r prettyNum(select(filter(BERD_industry_group, Year == 2016), Manufacturing.total), big.mark = ",")` million (`r round(((select(filter(BERD_industry_group, Year == 2016), Manufacturing.total)-select(filter(BERD_industry_group, Year == 2008), Manufacturing.total))/select(filter(BERD_industry_group, Year == 2008), Manufacturing.total))*100, 0)`%) and the primary industries sector showed the smallest overall increase, up $`r prettyNum((select(filter(BERD_industry_group, Year == 2016), Primary.total)-select(filter(BERD_industry_group, Year == 2008), Primary.total)))` million to $`r prettyNum(select(filter(BERD_industry_group, Year == 2016), Primary.total), big.mark = ",")` million (`r round(((select(filter(BERD_industry_group, Year == 2016), Primary.total)-select(filter(BERD_industry_group, Year == 2008), Primary.total))/select(filter(BERD_industry_group, Year == 2008), Primary.total))*100, 0)`%).
 
-The Primary industries grouping made the smallest contribution to BERD, with an expenditure of $`r select(filter(BERD_industry_group, Year == 2016), Primary.total)` million in 2016. It is recognised in the *National Statent of Science Investment* that New Zealand's primary industries are characterised by a large number of small producers making the same product, meaning that investment by individual firms in R & D is often uneconomic. This has been addressed historically by R & D for these producers being undertaken in Crown Research Institutes (CRIs) and universities - and therefore this expenditure is not counted statistically as BERD.   
-
+It is recognised in the *National Statent of Science Investment* that New Zealand's primary industries are characterised by a large number of small producers making the same product, meaning that investment by individual firms in R & D is often uneconomic. This has been addressed historically by R & D for these producers being undertaken in Crown Research Institutes (CRIs) and universities - and therefore this expenditure is not counted statistically as BERD.
 
 
 
@@ -142,7 +164,18 @@ BERDplot_group <- ggplot(data = BERD_industry_group_melt,aes(y = value, x = Year
 plot(BERDplot_group)
 ```
 
+### 2016 Research and Development Survey findings
+
+Focusing on the findings from the most recent survey, 2016 BERD has increased by $`r select(filter(BERD_industry_group, Year == 2016), Total) - select(filter(BERD_industry_group, Year == 2014), Total)` million since 2014 to reach $`r prettyNum(select(filter(BERD_industry_group, Year == 2016), Total), big.mark = "," )` million.
+
+The services grouping had the largest increase in R & D expenditure, up $`r select(filter(BERD_industry_group, Year == 2016), Services.total) - select(filter(BERD_industry_group, Year == 2014), Services.total)` million to $`r select(filter(BERD_industry_group, Year == 2016), Services.total)` million. Within the services grouping, the computer services industry, which includes software production and web design, had the largest growth, up $`r select(filter(BERD_industry, Year == 2016), Computer.services) - select(filter(BERD_industry, Year == 2014), Computer.services)` million (`r round(((select(filter(BERD_industry, Year == 2016), Computer.services) - select(filter(BERD_industry, Year == 2014), Computer.services))/select(filter(BERD_industry, Year == 2014), Computer.services)*100), 0) `%) since 2014.    
+
+The manufacturing sector expenditure increased  $`r prettyNum((select(filter(BERD_industry_group, Year == 2016), Manufacturing.total)-select(filter(BERD_industry_group, Year == 2014), Manufacturing.total)))` million since 2014 to $`r prettyNum(select(filter(BERD_industry_group, Year == 2016), Manufacturing.total), big.mark = ",")` million (`r round(((select(filter(BERD_industry_group, Year == 2016), Manufacturing.total)-select(filter(BERD_industry_group, Year == 2014), Manufacturing.total))/select(filter(BERD_industry_group, Year == 2014), Manufacturing.total))*100, 0)`%), while primary industries expenditure increased only marginally, up  $`r prettyNum((select(filter(BERD_industry_group, Year == 2016), Primary.total)-select(filter(BERD_industry_group, Year == 2014), Primary.total)))` million since 2014 to $`r prettyNum(select(filter(BERD_industry_group, Year == 2016), Primary.total), big.mark = ",")` million (`r round(((select(filter(BERD_industry_group, Year == 2016), Primary.total)-select(filter(BERD_industry_group, Year == 2014), Primary.total))/select(filter(BERD_industry_group, Year == 2014), Primary.total))*100, 0)`%)  
+
+In the 2016 survey, a total of `r sum(select(filter(RDExpectations_2016, Response %in% c("Increase", "Stay the same")), Business.sector.total))`% of businesses undertaking R & D expected their expenditure on R & D in the next year to either rise or stay the same, up from `r sum(select(filter(RDExpectations_2014, Response %in% c("Increase", "Stay the same")), Business.sector.total))`% in 2014. The computer services industry was the most positive about future R & D expenditure, with `r sum(select(filter(RDExpectations_2016, Response == "Increase"), Computer.services))`% of businesses anticipating to increase their R & D expenditure in the next year. 
 
 ##Conclusion
+
+New Zealand's BERD has grown by $`r prettyNum((select(filter(BERD_industry_group, Year == 2016), Total)-select(filter(BERD_industry_group, Year == 2008), Total)))` million or `r round((select(filter(BERD_industry_group, Year == 2016), "%GDP")-select(filter(BERD_industry_group, Year == 2008), "%GDP")), 2)` percentage points of GDP between 2008 and 2016, with the biggest increase occurring between 2014 and 2016. The services sector made the largest contribution to increasing BERD, and the computer services industry in particular. Manufacturing made the next largest contribution, while the primary industries sector increased expenditure only marginally. 
 
 ##Recommendations
